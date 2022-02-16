@@ -11,7 +11,7 @@
     <description></description>
 
     <properties>
-        <version.org.kie>7.44.0.Final-redhat-00003</version.org.kie>
+        <version.org.kie>7.44.0.Final-redhat-00006</version.org.kie>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
     </properties>
